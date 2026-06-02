@@ -14,7 +14,8 @@ The final dashboard focuses on three key areas:
 
 ## Dashboard Preview
 
-<img width="1667" height="1043" alt="image" src="https://github.com/user-attachments/assets/9de922e1-eab4-40f3-99ba-9c84f16eac12" />
+<img width="1623" height="1025" alt="image" src="https://github.com/user-attachments/assets/2ba66f51-a054-4259-9d8e-4bfe8096c023" />
+
 
 ## Business Problem
 
@@ -33,7 +34,7 @@ The final output is designed as a CEO-style summary that highlights the most imp
 
 ## Key Insights
 
-### Insight 1: Outdoor is underperforming the Competitor Group
+### Insight 1: Outdoor's slowdown is driven by weaker Avg. Basket Size and Avg. Spend per Customer compared to previous year. 
 
 Outdoor is compared against one aggregated Competitor Group rather than individual competitors. This follows the case study requirement and avoids displaying individual competitor brand performance.
 
@@ -47,7 +48,7 @@ The analysis shows that Outdoor is performing below the Competitor Group across 
 
 Recommended action:
 
-* Close the growth gap with targeted promotions and acquisition campaigns.
+* Sales strategies to increase the basket size and average spending per customer.
 
 ### Insight 2: Region 2 appears underserved
 
@@ -66,23 +67,27 @@ Important note:
 
 ### Insight 3: Outdoor has two customer behaviour clusters
 
-The customer cluster analysis identified two behaviour-based customer groups:
+The customer clustering analysis identifies four behaviour-based customer groups:
 
-* High Frequency, Low Spend
-* Low Frequency, High Spend
+Cluster 1: High Frequency, Low Basket
+Cluster 2: Moderate Frequency, High Spend
+Cluster 3: Low Frequency, Mid Basket
+Cluster 4: Very Low Frequency, High Basket
 
-The clustering model uses behavioural measures only:
+The clustering model is based on:
 
-* average transactions per customer
-* average basket size
-* average spend per customer
+average basket size
+average transactions per customer
+average spend per customer
 
-Gender and age group are used only after clustering to describe the customer audience. They are not used as clustering inputs.
+Gender and age are used only after clustering to describe the customer audience. They are not used to create the clusters.
 
-Recommended action:
+Recommended actions:
 
-* Use bundle deals and add-on offers for frequent low-spend customers.
-* Use reminders and re-engagement campaigns for low-frequency high-spend customers.
+Cluster 1: Use bundle and add-on offers in high female traffic areas.
+Cluster 2: Use limited-time offers at sports events.
+Cluster 3: Use limited-time offers at sports events.
+Cluster 4: Use reminders and re-engagement campaigns.
 
 ## Project Features
 
