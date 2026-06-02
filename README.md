@@ -19,9 +19,7 @@ The final dashboard focuses on three key areas:
 
 ## Business Problem
 
-Outdoor's total revenue declined by **2 percent year-on-year**.
-
-The project investigates whether this decline is linked to:
+The project investigates whether this Outdoor decline is linked to:
 
 * lower revenue growth
 * weaker customer growth
