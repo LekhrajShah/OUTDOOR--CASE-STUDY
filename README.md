@@ -67,10 +67,13 @@ Important note:
 
 The customer clustering analysis identifies four behaviour-based customer groups:
 
-Cluster 1: High Frequency, Low Basket.
-Cluster 2: Moderate Frequency, High Spend.
-Cluster 3: Low Frequency, Mid Basket.
-Cluster 4: Very Low Frequency, High Basket.
+Cluster 1: High Frequency, Low Basket
+
+Cluster 2: Moderate Frequency, High Spend
+
+Cluster 3: Low Frequency, Mid Basket
+
+Cluster 4: Very Low Frequency, High Basket
 
 The clustering model is based on:
 
