@@ -67,10 +67,10 @@ Important note:
 
 The customer clustering analysis identifies four behaviour-based customer groups:
 
-Cluster 1: High Frequency, Low Basket
-Cluster 2: Moderate Frequency, High Spend
-Cluster 3: Low Frequency, Mid Basket
-Cluster 4: Very Low Frequency, High Basket
+Cluster 1: High Frequency, Low Basket.
+Cluster 2: Moderate Frequency, High Spend.
+Cluster 3: Low Frequency, Mid Basket.
+Cluster 4: Very Low Frequency, High Basket.
 
 The clustering model is based on:
 
@@ -83,8 +83,11 @@ Gender and age are used only after clustering to describe the customer audience.
 Recommended actions:
 
 Cluster 1: Use bundle and add-on offers in high female traffic areas.
+
 Cluster 2: Use limited-time offers at sports events.
+
 Cluster 3: Use limited-time offers at sports events.
+
 Cluster 4: Use reminders and re-engagement campaigns.
 
 ## Project Features
